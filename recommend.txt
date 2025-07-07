@@ -1,0 +1,21 @@
+1. github에 기존 nyoupartners.com 홈페이지를 renewer 할 목적으로 새로운 홈페이지 만들기이다.
+2. html로 간단하게 만들고 모바일 반응형에 최적화 되어야 한다.
+3. 메뉴는 “HOME”, “SERVICE”,”MEMBER”,”PARTNERS”, “CONTACT”로 구성한다
+4. “HOME” 메뉴는 홈페이지 첫 페이지이고 회사의 전반적인 소개 및 서비스 소개가 포함된다.
+5. “SERVICE” 메뉴는 회사의 서비스를 소개하는 페이지이다.
+6. “MEMBERS” 메뉴는 회사의 구성원들을 소개하는 페이지이면서 회사의 경력(Career)이 포함된다.
+7. “PARTNERS” 메뉴는 회사와 관계된 파트너 회사들을 소개하는 페이지이다.
+8. “CONTACT” 메뉴는 회사에 상담을 요청하는 페이지로 “회사명”,”이메일”,”요청서비스”,”전화번호”,”담당자명/직급”, “대상인원”,”상담내용”을 작성해 메일주소 “nkh@nyoupartners.com”로 보내는 기능이 포함된다.
+9. 홈페이지의 데이터를 현재 운영중인 홈페이지 “https://www.nyoupartners.com”를 참고한다.
+10. 새롭게 만들어 지는 메뉴 “SERVICE” 는 “https://www.nyoupartners.com/services”를 참고로 한다.
+11. 새롭게 만들어 지는 메뉴 “MEMBERS”는 “https://www.nyoupartners.com/partners”의 “Our Team & Partners”의 “대표이사”,”과장/대리/사원등” 및 “https://www.nyoupartners.com/career”를  참고한다.
+12. 새롭게 만들어 지는 메뉴 “PARTNERS”는 “https://www.nyoupartners.com/partners”의 “Our Team & Partners” 부분의 “(주)오이사공 / (주) 타이거컴퍼니”, “세무법인 세안텍스” 부분을 참고한다. “오이사공과 타이거컴퍼니의 정보는 네이버 검색을 통해 정보를 가져와 추가 정보를 채운다.
+13. 새로운 홈페이지의 디자인은 "https://brand.hldni.com"을 참고해 최대한 같은 모양으로 만든다.
+14. PayRoll 아웃소싱회사 이니 없는 이미지들은 무료 이미지 중 최대한 비슷한 건셉으로 찾아 넣어줘.
+15. PC, 모바일에도 최적화 되게 모든 페이지에 scroll top 버튼 만들어줘.
+16. script파일은 script 폴더에 css 파일은 css 폴더에 만들어줘.
+17. 오시는 길은 "(주)엔유파트너스" 네이버 검색을 통해 주소를 구글 맵에 표시해줘. 
+
+사용할 이미지 URL
+https://www.shutterstock.com/ko/search/%ec%82%ac%eb%ac%b4%ec%8b%a4-%ed%9a%8c%ec%9d%98-%ed%9a%8c%ea%b3%84-%ed%8c%8c%ed%8a%b8%eb%84%88-%eb%af%b8%ed%8c%85-%ec%8a%a4%eb%a7%88%ec%9d%bc-%ea%b3%a0%ed%99%94%ec%a7%88
+https://pixabay.com/ko/images/search/%ec%82%ac%eb%ac%b4%ec%8b%a4%20%ed%9a%8c%ec%9d%98%20%ec%82%ac%eb%9e%8c%eb%93%a4/
